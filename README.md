@@ -19,7 +19,7 @@ The game was made in C using the [GBDK devkit](https://github.com/gbdk-2020/gbdk
 
 
 ## Run it
-The github file already provie the ``.gb``, so just drag n drop it into a Gameboy Emulator [Bgb for windows user](http://bgb.bircd.org/) or [mGBA for linux and mac user](https://mgba.io/)
+The github file already provide the ``.gb``, so just drag n drop it into a Gameboy Emulator [Bgb for windows user](http://bgb.bircd.org/) or [mGBA for linux and mac user](https://mgba.io/)
 
 
 ## Controls
