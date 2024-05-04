@@ -15,10 +15,11 @@ This project is a Gameboy game where you play a Judge that need to defend his vi
 bandits come by waves 1, 2 or 3 at time and you have to smash your hammer to kill them. You can also send a shockwave to them but careful only once at time !
 
 
-The github file already provie the ``.gb``, so just drag n drop it into a Gameboy Emulator [Bgb for windows user](http://bgb.bircd.org/) or [mGBA for linux and mac user](https://mgba.io/)
-
-
 The game was made in C using the [GBDK devkit](https://github.com/gbdk-2020/gbdk-2020) for Nintendo Gameboy and more
+
+
+## Run it
+The github file already provie the ``.gb``, so just drag n drop it into a Gameboy Emulator [Bgb for windows user](http://bgb.bircd.org/) or [mGBA for linux and mac user](https://mgba.io/)
 
 
 ## Controls
