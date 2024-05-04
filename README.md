@@ -36,7 +36,7 @@ Up/Down/Left/Right -> Moving the player
 
 ## Build the project
 
-If you want to build the project you can follow the step below :
+If you want to build the project you can follow the steps below :
 - Ensure you have GCC installed
 - Download the [GBDK devkit](https://github.com/gbdk-2020/gbdk-2020)
 - Put the GBDK folder where you want but copy the path to it
