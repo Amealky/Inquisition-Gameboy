@@ -23,7 +23,7 @@ The github file already provide the ``.gb``, so just drag n drop it into a Gameb
 
 
 ## Controls
-Beware to set your emulator control befeore !
+Beware to set your emulator control before !
 
 A -> Smash Hammer/Skip Score Screen
 
