@@ -31,6 +31,8 @@ B -> Send Shockwave
 
 Start -> Start the game
 
+Up/Down/Left/Right -> Moving the player
+
 
 ## Build the project
 
