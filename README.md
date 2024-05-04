@@ -25,7 +25,9 @@ The game was made in C using the [GBDK devkit](https://github.com/gbdk-2020/gbdk
 Beware to set your emulator control befeore !
 
 A -> Smash Hammer/Skip Score Screen
+
 B -> Send Shockwave
+
 Start -> Start the game
 
 
