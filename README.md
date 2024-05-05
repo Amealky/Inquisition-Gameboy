@@ -44,3 +44,6 @@ If you want to build the project you can follow the steps below :
 - Finally just run ``make`` command this will replace the .gb by a freshly builded one
 - Then you can just drag n drop it into a GB emulator
 - (Optionnal) if you got lot of compilation file you can run ``make clean``
+
+
+Note : Build with G++11.4.0 
