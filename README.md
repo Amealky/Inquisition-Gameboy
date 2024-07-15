@@ -2,13 +2,14 @@
 
 <h1 align="center"> Inquisition :video_game: :space_invader: <h1>
 
-<img src="https://img.shields.io/badge/platform-gameboy-yellowgreen" />
-<img src="https://img.shields.io/badge/language-c-lightgrey" />
+<p align="center">
+        <img src="https://img.shields.io/badge/Gameboy-%204--2--1?style=for-the-badge&label=platform&color=yellowgreen">
+        <img src="https://img.shields.io/badge/C-%204--2--1?style=for-the-badge&logo=SDL&logoColor=white&label=language&color=lightgrey">
+</p>
 
-
-## Preview
-![Preview](https://i.ibb.co/W6133Gm/Capture-d-e-cran-2024-01-23-a-22-51-54.png)
-
+<p align="center">
+<img src="https://i.ibb.co/W6133Gm/Capture-d-e-cran-2024-01-23-a-22-51-54.png">
+</p>
 
 ## Overview
 This project is a Gameboy game where you play a Judge that need to defend his village attacked by some bandits,
